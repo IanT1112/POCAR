@@ -1,0 +1,8 @@
+path: C:/Users/Ian Tapia/Documents/code/pocar/ml/dataset_preparado
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names:
+  0: pothole

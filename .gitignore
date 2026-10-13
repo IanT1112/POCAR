@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+ml/runs/
+ml/datasets/
+ml/models/*.pt
+
+.vscode/
+.env
